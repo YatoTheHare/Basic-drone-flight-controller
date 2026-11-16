@@ -2,7 +2,7 @@
 ## Opis układu
 
 Jednowarstwowa płytka PCB (z kilkoma przelotkami na zworki łączące wyspy GND).
-Układ przeznaczony jest do pełnienia funkcji kontrolera lotu drona wirnikowego FPV. 
+Układ przeznaczony jest do pełnienia funkcji kontrolera lotu drona czterowirnikowego.
 W skład układu wchodzą:
 - Port USB-C dla zasilania 5V DC oraz transferu danych
 - Mikrokontroler ESP32-S3-WROOM1 z gniazdem JST-SH dla urządzenia peryferyjnego IIC
