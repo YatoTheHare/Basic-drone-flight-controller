@@ -1,0 +1,21 @@
+# KiCad - local settings
+*.kicad_prl
+*.kicad_wks
+
+# Lock files
+*.lck
+
+# Backup files
+*-backups/
+*.bak
+*.bck
+
+# Cache and temporary files
+.cache/
+*.tmp
+_autosave-*
+.history
+
+# Operating system
+.DS_Store
+Thumbs.db
