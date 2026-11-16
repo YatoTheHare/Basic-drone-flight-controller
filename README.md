@@ -1,4 +1,4 @@
-# Podstawowy kontroler lotu drona FPV na ESP32-S3-WROOM1
+# Podstawowy kontroler lotu drona na ESP32-S3-WROOM1
 ## Opis układu
 
 Jednowarstwowa płytka PCB (z kilkoma przelotkami na zworki łączące wyspy GND).
